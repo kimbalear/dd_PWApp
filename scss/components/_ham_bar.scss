@@ -1,9 +1,12 @@
 .ham_bar {
+    position: relative;
+    left: -225px;
     width: 60%;
     height: 100%;
     max-width: 223px;
     background: #e0e0e0;
-    box-shadow: 16px 16px 31px #bebebe,
-        -16px -16px 31px #ffffff;
+    box-shadow: 2px 2px 2px #bebebe,
+        -4px 2px #ffffff;
+        z-index: 500;
     box-sizing: border-box;
 }

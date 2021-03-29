@@ -8,3 +8,14 @@
     background-color: #F6F6F6;
     box-sizing: border-box;
 }
+
+.scrim{
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    background-color: #53535388;
+    box-sizing: border-box;
+}
