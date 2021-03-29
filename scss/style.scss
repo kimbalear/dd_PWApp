@@ -1,5 +1,7 @@
-@import 'components/_menu_top.scss';
-
+@import 'components/_menu_top.scss',
+'components/_fab_bottom.scss',
+'components/_ham_bar.scss',
+'components/_card.scss';
 *, html, body {
     padding: 0!important;
     margin: 0;

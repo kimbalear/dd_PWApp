@@ -36,6 +36,28 @@
   background-color: transparent;
 }
 
+.fab_bottom {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+}
+
+.ham_bar {
+  width: 60%;
+  height: 100%;
+  max-width: 223px;
+  background: #e0e0e0;
+  box-shadow: 16px 16px 31px #bebebe, -16px -16px 31px #ffffff;
+  box-sizing: border-box;
+}
+
+.card_hmb {
+  width: 100%;
+  height: 126px;
+  background-color: #333;
+  box-sizing: border-box;
+}
+
 *, html, body {
   padding: 0 !important;
   margin: 0;
